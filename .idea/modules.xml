@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lectures/Lectures.iml" filepath="$PROJECT_DIR$/Lectures/Lectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_10RecursionLevel1Questions/_10RecursionLevel1Questions.iml" filepath="$PROJECT_DIR$/Lectures/_10RecursionLevel1Questions/_10RecursionLevel1Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_11RecursionArrayQuestions/_11RecursionArrayQuestions.iml" filepath="$PROJECT_DIR$/Lectures/_11RecursionArrayQuestions/_11RecursionArrayQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_12SortingAlgo/_12SortingAlgo.iml" filepath="$PROJECT_DIR$/Lectures/_12SortingAlgo/_12SortingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_13BasicStringQuestion(SubsetMethod)/_13BasicStringQuestion(SubsetMethod).iml" filepath="$PROJECT_DIR$/Lectures/_13BasicStringQuestion(SubsetMethod)/_13BasicStringQuestion(SubsetMethod).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_14MazeProblemsAndIntrotoBacktracking/_14MazeProblemsAndIntrotoBacktracking.iml" filepath="$PROJECT_DIR$/Lectures/_14MazeProblemsAndIntrotoBacktracking/_14MazeProblemsAndIntrotoBacktracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_15Nproblems/_15Nproblems.iml" filepath="$PROJECT_DIR$/Lectures/_15Nproblems/_15Nproblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_16OOP/_16OOP.iml" filepath="$PROJECT_DIR$/Lectures/_16OOP/_16OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_17LinkedList/_17LinkedList.iml" filepath="$PROJECT_DIR$/Lectures/_17LinkedList/_17LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_18StackandQueue/_18StackandQueue.iml" filepath="$PROJECT_DIR$/Lectures/_18StackandQueue/_18StackandQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/_1FirstDay/_1FirstDay.iml" filepath="$PROJECT_DIR$/assignments/_1FirstDay/_1FirstDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_1LinearSearch/_1LinearSearch.iml" filepath="$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_1LinearSearch/_1LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_1SwitchCaseAndNestedSwitch/_1SwitchCaseAndNestedSwitch.iml" filepath="$PROJECT_DIR$/Lectures/_1SwitchCaseAndNestedSwitch/_1SwitchCaseAndNestedSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_2BinarySearch/_2BinarySearch.iml" filepath="$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_2BinarySearch/_2BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_2Funtions/_2Funtions.iml" filepath="$PROJECT_DIR$/Lectures/_2Funtions/_2Funtions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/_2and3ConditionalsAndLoops/_2and3ConditionalsAndLoops.iml" filepath="$PROJECT_DIR$/assignments/_2and3ConditionalsAndLoops/_2and3ConditionalsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_3Arrays/_3Arrays.iml" filepath="$PROJECT_DIR$/Lectures/_3Arrays/_3Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_4SearchingAlgorithms.iml" filepath="$PROJECT_DIR$/Lectures/_4SearchingAlgorithms/_4SearchingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_5SortingAlgorithms/_5SortingAlgorithms.iml" filepath="$PROJECT_DIR$/Lectures/_5SortingAlgorithms/_5SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_6StringsAndStringBuilders/_6StringsAndStringBuilders.iml" filepath="$PROJECT_DIR$/Lectures/_6StringsAndStringBuilders/_6StringsAndStringBuilders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_7BinaryOperators/_7BinaryOperators.iml" filepath="$PROJECT_DIR$/Lectures/_7BinaryOperators/_7BinaryOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_8MathsForDSA/_8MathsForDSA.iml" filepath="$PROJECT_DIR$/Lectures/_8MathsForDSA/_8MathsForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lectures/_9Recursion/_9Recursion.iml" filepath="$PROJECT_DIR$/Lectures/_9Recursion/_9Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/assignments.iml" filepath="$PROJECT_DIR$/assignments/assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-intellicode/first-intellicode.iml" filepath="$PROJECT_DIR$/first-intellicode/first-intellicode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prasadprgm.iml" filepath="$PROJECT_DIR$/prasadprgm.iml" />
+    </modules>
+  </component>
+</project>
