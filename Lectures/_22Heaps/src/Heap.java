@@ -58,6 +58,9 @@ public class Heap <T extends Comparable<T>>{
         if(list.isEmpty()){
             throw new Exception("Removing from an empty list");
         }
+        if(list.size() == 1){
+            return list.remove(0);
+        }
         //This is to get the last element but does not remove the element
         T temp = list.get(0);
 
